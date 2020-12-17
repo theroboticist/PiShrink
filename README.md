@@ -44,7 +44,7 @@ If using Ubuntu, you will likely see an error about `e2fsck` being out of date a
 ## Installation ##
 
 ```bash
-wget https://raw.githubusercontent.com/Drewsif/PiShrink/master/pishrink.sh
+git clone https://github.com/theroboticist/PiShrink.git
 chmod +x pishrink.sh
 sudo mv pishrink.sh /usr/local/bin
 ```
